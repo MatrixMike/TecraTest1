@@ -1,4 +1,4 @@
-package com.example.tecratest1
+package com.electroteach.tecratest1
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
