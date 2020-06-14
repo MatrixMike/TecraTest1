@@ -1,4 +1,4 @@
-package com.electroteach.tecratest1
+package com.example.tecratest1
 
 import org.junit.Test
 
